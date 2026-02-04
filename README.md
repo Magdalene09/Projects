@@ -124,5 +124,3 @@ The best-performing model (XGBoost) was further evaluated using:
 * The project does not include **cross-validation**, relying instead on a single train–test split for evaluation.
 * Model evaluation focuses on standard metrics; advanced techniques such as calibration curves or explainability methods (e.g., SHAP) are not applied.
 * The solution is not deployed as an end-user application and remains limited to a notebook-based workflow.
-
-⭐ If you found this project helpful, consider giving it a star!
